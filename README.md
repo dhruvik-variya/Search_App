@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://algolia-design.github.io/instantsearch-site-design/logo-instantsearch.svg" alt="Algolia InstantSearch Logo" width="120" />
+ 
   <h1>🚀 Product Search App</h1>
   <p><strong>A blazing fast, responsive, and elegant search experience built with React, Vite, and Algolia InstantSearch.</strong></p>
 </div>
